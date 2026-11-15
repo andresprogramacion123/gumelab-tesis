@@ -1,0 +1,6 @@
+Serie,tuits,nodos,aristas,densidad,comp_gigante,agrupamiento,reciprocidad,comunidades,modularidad,kin_max,hashtags_compartidos,top_pagerank
+"Escobar, el patrón del mal",121316,44460,56081,2.8e-05,0.62,0.145,0.054,6552,0.84,3605,9257,"@soyandresparra, @caracoltv, @escobarelpatron, @christiantappan, @noticiascaracol, @canal9oficial, @elespectador, @qm_c9"
+Narcos,14574,7819,9358,1.5e-04,0.73,0.154,0.02,1044,0.68,2948,1547,"@netflixlat, @netflix, @narcosnetflix, @netflixes, @raulmijomendez, @followers_rm, @diegoluna_, @esnetflixes"
+Tres Caínes,32426,13857,19379,1.0e-04,0.76,0.131,0.035,1428,0.7,2211,615,"@julianroman, @gustavobolivar, @canalrcnmsncom, @gregoriopernia, @elkindiaz37, @revistasemana, @eltiempo, @noticiasrcn"
+Los 80,14046,5010,5088,2.0e-04,0.52,0.105,0.026,1009,0.85,310,819,"@loretoaravena, @los80oficial, @canal13, @tv_fotech, @agesswein, @los80_serie, @laforch, @teleseriefotech"
+Dignidad,2809,1811,2018,6.2e-04,0.57,0.126,0.009,324,0.78,114,1018,"@primevideolat, @sebastianpinera, @mega, @hernanlarrainf, @gobiernodechile, @jperezs, @carabdechile, @primevideo"

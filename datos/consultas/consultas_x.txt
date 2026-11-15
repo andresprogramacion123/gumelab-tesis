@@ -1,0 +1,14 @@
+# EPM
+lang:es -@Red__Accion -@ArielSujarchuk -#Maschwitz -#vamosconvos -#Elecciones2021 -#MundialNexo -#somosmaschwitz -#FrenteDeTodos -@FOLprensa -#BelenDeEscobar -COVID-19 -#BarrioStoneResiste -#legislativas2021 -#ESPNBike -Sujarchuk -#CierreDeListas -@juancbaruja -@desimasi2 -@Escobar_Muni -#NauticoEscobarCountryClub (#ElPatronDelMal OR #EscobarElPatron OR #PatronDelMalTV OR #Escobar OR #Escobarelpatron)
+
+# Narcos
+lang:es -#ULTIMAHORA -#CartelTycoon -#NarcosMexico -#Charlines -Debanhi -glifosato (#SerieNarcos OR #NarcosColombia OR #NarcosSerie OR #NarcosNetflix OR #Narcos) (@netflix OR #Netflix OR #Series OR @NetflixLAT OR #Serie)
+
+# TresCaines
+lang:es (#TresCaines OR #trescaínes OR #YoApoyoTresCaines OR "#Tres Caínes" OR #trescaines OR #los3caines OR #Noentrescaines OR #NoTresCaines)
+
+# Los80
+lang:es -@Baloncesto80 -#los8015 -@los80_2000 -#a_los80 -@musica_80 -"Nostalgia De Los 80's y 90's" -#canciondelos80 -@los8090ymas -#los80s90s -#RetromaniacMag -#musica_80 -@PorMundoALos80 -@Nico_Productor -@los80rock -#Baloncesto80 -@los8015 -#los8090ymas -@Asisonlos80 -#los80_2000 -#PorMundoALos80 -@los80s90s -#Nico_Productor -#los80rock -#los80show -@los80show -#los80libro -@a_los80 -@canciondelos80 -@los80libro -@RetromaniacMag (@Los80 OR #Los80 OR #Los80_serie) (#BoricPresidentedeChile OR #gabrielboric OR #JuanHerrera OR mas que una moda OR #ParaNoVolveraLos80 OR #MeUnoxBoric OR #vota1 OR TV OR los80 boric OR #Chile OR #Canal13)
+
+# Dignidad
+lang:es -#dignidadrurales -#powerDignity -#cultureodignity -#dignityinschool -#deathwdignidy -#humandignityT -#dignidadyutopia -#dignidadmigrant -#dignityhealth -#restaurandoDign -#dignidadfabiola -#humankindness -#dignidadcon100t -#dignityindying -#dignidadcivil -#dignityhealthsp ("@dignity colonia" OR @dignidad OR "@dignidad colonia" OR @dignitytvseries OR @dignidadMega OR "dignidad colonia" OR "dignity serie" OR #Dignity OR "#dignity colonia" OR "dignidad serie" OR dignidadtv OR @dignity OR "#dignidad colonia" OR dignidadmega OR #dignidadMega OR dignidadtvseries OR #Dignidad) (#HBO OR HernanLarrainF OR @mega OR #primevideo OR #amazon OR #joyn OR #ColoniaDignidad OR @chile OR #HernanLarrainF OR @primevideo OR #Serie OR #chile OR @primevideoLat OR @HernanLarrainF OR @AmazonPrime OR Alemania OR #primevideoLat OR #SBSOnDemand OR @HBO OR @amazon OR @ColoniaDignidad OR @joyn OR @nuevaSerie OR @SBSOnDemand OR @Serie OR #AmazonPrime OR @Series OR #mega)

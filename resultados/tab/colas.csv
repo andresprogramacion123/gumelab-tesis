@@ -1,0 +1,21 @@
+Variable,Serie,n,media,mediana,maximo,xmin,alpha,KS,n_cola
+Vistas por video (YouTube),"Escobar, el patrón del mal",1959,347605.7,11534.0,27472231,456080.0,2.05,0.047,319.0
+Likes por comentario (YouTube),"Escobar, el patrón del mal",49131,29.4,3.0,36850,60.0,1.91,0.014,2466.0
+Retuits por tuit (X),"Escobar, el patrón del mal",38341,5.7,2.0,1008,17.0,2.23,0.07,2003.0
+Tuits por cuenta (X),"Escobar, el patrón del mal",52235,2.3,1.0,907,6.0,2.31,0.193,2831.0
+Vistas por video (YouTube),Narcos,875,488008.1,5774.0,95017446,42338.0,1.48,0.071,255.0
+Likes por comentario (YouTube),Narcos,27115,64.0,2.0,64485,20.0,1.61,0.028,3991.0
+Retuits por tuit (X),Narcos,4167,14.1,1.0,2994,15.0,1.66,0.062,279.0
+Tuits por cuenta (X),Narcos,10616,1.4,1.0,125,3.0,2.7,0.461,620.0
+Vistas por video (YouTube),Tres Caínes,213,141276.9,12039.0,4035713,201105.0,3.43,0.127,69.0
+Likes por comentario (YouTube),Tres Caínes,4462,10.3,3.0,3812,14.0,2.27,0.095,395.0
+Retuits por tuit (X),Tres Caínes,8051,4.1,1.0,790,14.0,2.38,0.074,408.0
+Tuits por cuenta (X),Tres Caínes,17021,1.9,1.0,319,4.0,2.39,0.319,1217.0
+Vistas por video (YouTube),Los 80,212,74815.6,12130.0,2142666,31019.0,1.79,0.088,79.0
+Likes por comentario (YouTube),Los 80,5248,38.3,3.0,6321,16.0,1.68,0.043,940.0
+Retuits por tuit (X),Los 80,3965,6.7,1.0,1289,19.0,2.02,0.065,201.0
+Tuits por cuenta (X),Los 80,8360,1.7,1.0,132,4.0,2.62,0.343,525.0
+Vistas por video (YouTube),Dignidad,25,32598.6,448.0,325401,,,,
+Likes por comentario (YouTube),Dignidad,492,54.8,3.0,5824,18.0,1.61,0.065,82.0
+Retuits por tuit (X),Dignidad,1280,8.6,2.0,393,13.0,1.98,0.083,154.0
+Tuits por cuenta (X),Dignidad,1575,1.8,1.0,204,4.0,2.4,0.322,87.0

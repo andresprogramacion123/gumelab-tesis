@@ -1,0 +1,6 @@
+Serie,nodos,aristas,comp_gigante,reciprocidad,agrupamiento,modularidad,kin_max
+"Escobar, el patrón del mal",44709,53771,0.83,0.001,0.003,0.83,288
+Narcos,34404,35621,0.77,0.0,0.003,0.92,453
+Tres Caínes,2921,3807,0.77,0.003,0.012,0.75,94
+Los 80,6040,6823,0.87,0.0,0.008,0.86,53
+Dignidad,660,624,0.69,0.0,0.0,0.9,84
