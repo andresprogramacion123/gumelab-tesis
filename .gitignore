@@ -1,0 +1,12 @@
+# Datos con texto y nombres de usuarios: NO subir a un repositorio público
+datos_privados/
+*.pkl
+*.gexf
+# Claves y credenciales
+.env
+*client_secret*.json
+credenciales*
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

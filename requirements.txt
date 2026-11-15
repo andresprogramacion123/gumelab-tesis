@@ -1,0 +1,28 @@
+# Análisis local (scripts/)
+pandas>=2.0
+numpy
+scipy
+networkx>=3.0
+matplotlib
+openpyxl
+Pillow
+# Cuadernos originales (Colab): extracción y PLN
+requests
+nltk
+spacy
+gensim
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+advertools
+urlextract
+clean-text
+wordcloud
+pyLDAvis
+bokeh
+translators
+# Cuadernos de Colab nuevos (sentimiento y NER)
+pysentimiento
+transformers
+torch
+emoji
